@@ -1,5 +1,4 @@
-//eslint-next-line-disable
-import react from "react";
+
 
 function Confirm(props) {
   return (

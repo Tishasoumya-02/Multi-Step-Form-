@@ -1,6 +1,5 @@
-//eslint-disable-next-line
-import react from "react";
-import {Form} from "react-bootstrap"
+
+
 function ProfilePic(props)
 {
    
